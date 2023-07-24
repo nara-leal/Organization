@@ -4,5 +4,5 @@ Criei este espaço para organizar meus projetos que versionei aqui pela platafor
 Abaixo seguem os nomes e links necessários para acessar os repositórios.
 
 <ul>
-    <li>[https://github.com/nara-leal/RecipeBook](Recipe Book)></li>
+    <li>[Recipe Book](https://github.com/nara-leal/RecipeBook)</li>
 </ul>
